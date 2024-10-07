@@ -186,7 +186,7 @@ public class Main {
             if (two > one && two > three) {
                 System.out.println("Число two больше всех");
             } else {
-                System.out.println("Число three больше всех");
+                System.out.println("Число three больше всех.");
             }
         }
         System.out.println("");
@@ -202,7 +202,7 @@ public class Main {
             if (two > one && two > three) {
                 System.out.println("Число two больше всех");
             } else {
-                System.out.println("Число three больше всех");
+                System.out.println("Число three больше всех.");
             }
         }
         System.out.println("");
@@ -218,7 +218,7 @@ public class Main {
             if (two > one && two > three) {
                 System.out.println("Число two больше всех");
             } else {
-                System.out.println("Число three больше всех");
+                System.out.println("Число three больше всех.");
             }
         }
     }
